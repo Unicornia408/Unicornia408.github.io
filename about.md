@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey there! This is JH's blog. Hope you like it!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+世界那么大，我都想了解
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jianhua_ben@163.com](mailto:email@domain.com)
