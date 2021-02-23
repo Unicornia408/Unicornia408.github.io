@@ -6,7 +6,7 @@
 name: JH's Blog
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 世界那么大，我都想了解。
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/Unicornia408/Unicornia408.github.io/master/C26E7824-32E5-41BB-B283-081FBB07C32D.jpeg
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/Unicornia408/Unicornia408.github.io/ma
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: jianhua_ben@163.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: Unicornia408
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: jianhua_ben
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
